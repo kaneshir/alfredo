@@ -1,0 +1,50 @@
+<svg width="760" height="560" viewBox="0 0 760 560" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g fill="#DF9350" stroke="#161616" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M286 44L320 44L452 435L419 435L286 44Z" stroke-width="10"/>
+
+    <path d="M365 184H483L524 148H564L605 184V424H529L490 386H365V184Z" stroke-width="12"/>
+    <path d="M332 208H394V394H332L292 370V235L332 208Z" stroke-width="12"/>
+    <path d="M292 235H236L189 279V394H292V235Z" stroke-width="12"/>
+
+    <path d="M199 394H610V438H199V394Z" stroke-width="12"/>
+    <path d="M223 438H581V465H223V438Z" stroke-width="12"/>
+
+    <path d="M241 466H295C302 497 327 518 359 518C391 518 415 497 422 466H513C520 497 545 518 577 518C608 518 634 497 640 466H666V438H241V466Z" stroke-width="12"/>
+
+    <circle cx="359" cy="476" r="42" stroke-width="12"/>
+    <circle cx="359" cy="476" r="18" fill="#161616" stroke-width="10"/>
+    <circle cx="577" cy="476" r="42" stroke-width="12"/>
+    <circle cx="577" cy="476" r="18" fill="#161616" stroke-width="10"/>
+
+    <path d="M220 394H241V438H220V394Z" stroke-width="10"/>
+    <path d="M610 394H632V438H610V394Z" stroke-width="10"/>
+
+    <path d="M356 207H482V260H356V207Z" stroke-width="10"/>
+    <path d="M489 183H563V236H489V183Z" stroke-width="10"/>
+    <path d="M498 246H573V333H498V246Z" stroke-width="10"/>
+    <path d="M513 262H558" stroke-width="8"/>
+    <path d="M513 289H558" stroke-width="8"/>
+    <path d="M513 316H558" stroke-width="8"/>
+
+    <path d="M215 300H262" stroke-width="10"/>
+    <path d="M215 334H262" stroke-width="10"/>
+
+    <path d="M321 246V364" stroke-width="8"/>
+    <path d="M336 240V364" stroke-width="8"/>
+    <path d="M351 234V364" stroke-width="8"/>
+    <path d="M366 228V364" stroke-width="8"/>
+    <path d="M381 222V364" stroke-width="8"/>
+
+    <path d="M399 207V386" stroke-width="8"/>
+    <path d="M471 207V386" stroke-width="8"/>
+
+    <path d="M513 183V236" stroke-width="8"/>
+    <path d="M539 183V236" stroke-width="8"/>
+
+    <path d="M437 404H463" stroke-width="8"/>
+    <path d="M270 404H286" stroke-width="8"/>
+
+    <path d="M421 121H452L472 183H438L421 121Z" stroke-width="10"/>
+    <path d="M566 153H604L631 216H590L566 153Z" stroke-width="10"/>
+  </g>
+</svg>
